@@ -12,4 +12,4 @@ Para criar a calculadora eu utilizei o script do Gustavo Neitzke no repositório
 5. Após o título com o nome "Calculadora", deve-se coloca um parágrafo _p_ onde serão apresentados os resultados;
 7. Após o parágrafo é criado o _table_ onde será moldada a calculadora com cada linha _tr_ e coluna;
 8. Em cada linha da _table_ são criados os botões _button_ que serão os símbolos matemáticos e números;
-9. Siga todas as intruções nesse [vídeo](https://www.youtube.com/watch?v=42TShjXR0m0).
+9. Essas foram as intruções iniciais para criar a tabela em **HTML**, agora siga todas as intruções nesse [vídeo](https://www.youtube.com/watch?v=42TShjXR0m0) para ver como modificar o estilo da tabela em **css** e para adicionar a função com **JavaScript**.
