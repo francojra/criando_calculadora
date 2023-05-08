@@ -10,6 +10,6 @@ Para criar a calculadora eu utilizei o script do Gustavo Neitzke no repositório
 - Nesse campo _body_ encontramos o _div_ que representa as divisões (ex. fundo, calculadora, etc) e os títulos de cada divisão representados pelo h1, h2, e assim por diante.
 4. Em css é possível mudar a cor do fundo, a cor da calculadora, as cores dos botões, o tamanho e tipo de letra;
 5. Após o título com o nome "Calculadora", deve-se coloca um parágrafo _p_ onde serão apresentados os resultados;
-7. Após o parágrafo é criado o _table_ onde será moldada a calculadora com cada linha e coluna;
-8. Em cada linha da _table_ são criados os botões (botton) que serão os símbolos matemáticos e números;
-9. A partir disso, siga as intruções desse [vídeo](https://www.youtube.com/watch?v=42TShjXR0m0).
+7. Após o parágrafo é criado o _table_ onde será moldada a calculadora com cada linha _tr_ e coluna;
+8. Em cada linha da _table_ são criados os botões _button_ que serão os símbolos matemáticos e números;
+9. Siga todas as intruções nesse [vídeo](https://www.youtube.com/watch?v=42TShjXR0m0).
